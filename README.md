@@ -1,9 +1,11 @@
 # Sanjeev Raj K
 
-🔐 Cybersecurity Student
+🛡️ Cybersecurity Student
 
 🚀 Building Calix Train
 
-♟️ Chess Player | Tech Enthusiast
+💻 React Native • Firebase • Python
 
-⚡ Building Projects. Securing Systems. Growing Daily.
+♟️ Chess Player | Problem Solver
+
+⚡ Building Secure & Scalable Solutions
